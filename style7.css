@@ -1,0 +1,22 @@
+body{
+    position: relative;
+}
+.L{
+    color: brown;
+    position: static;
+}
+ul > li{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    color: red;
+}
+li:hover{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+.D{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
